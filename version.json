@@ -1,5 +1,5 @@
 {
-    "version": "13.1",
+    "version": "13.2",
     "download_url": "https://github.com/arman3034/pro-downloader/releases/download/v13.1/ProDownloader-Setup.exe",
     "changelog": "✨ New Features:\n• Single URL and playlist scheduling\n• Enhanced trim controls for screen readers  \n• GitHub auto-update checker (Ctrl+U)\n• All video formats supported (shorts, long, live)\n\n🐛 Bug Fixes:\n• Fixed syntax error on line 1\n• Improved format fallbacks\n• Trim now opt-in to prevent crashes\n\n♿ Accessibility:\n• Full NVDA/JAWS compatibility\n• 13 keyboard shortcuts documented\n• Screen reader-friendly dialogs",
     "release_date": "2026-02-12",
