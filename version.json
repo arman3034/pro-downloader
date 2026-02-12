@@ -1,7 +1,7 @@
 {
-  "version": "13.5",
-  "download_url": "https://github.com/arman3034/pro-downloader/releases/download/v13.5/ProDownloader_Setup.exe",
-  "changelog": "Minor bug fixes. and  improvement.",
+  "version": "13.5.1",
+  "download_url": "https://github.com/arman3034/pro-downloader/releases/download/v13.5.1/ProDownloader_Setup.exe",
+  "changelog": "Added global status hotkey (Ctrl+Shift+S) and update progress announcements.",
   "release_date": "2026-02-12",
   "min_version": "13.0"
 }
