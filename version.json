@@ -1,7 +1,7 @@
 {
-  "version": "13.5.1",
-  "download_url": "https://github.com/arman3034/pro-downloader/releases/download/v13.5.1/ProDownloader_Setup.exe",
-  "changelog": "Added global status hotkey (Ctrl+Shift+S) and update progress announcements.",
-  "release_date": "2026-02-12",
+  "version": "13.6",
+  "download_url": "https://github.com/arman3034/pro-downloader/releases/download/v13.6/ProDownloader_Setup.exe",
+  "changelog": "Professional Accessibility Overhaul: Added global status hotkey (Ctrl+Shift+S), 10% progress announcements, and full screen reader support for all dialogs.",
+  "release_date": "2026-02-13",
   "min_version": "13.0"
 }
